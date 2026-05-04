@@ -56,10 +56,14 @@ g++ -O3 AvianOS_Integrated_Core.cpp -o Integrated_Demo
 # Compile the Performance Profiler
 g++ -O3 AvianOS_Performance_Profiler.cpp -o Performance_Profiler
 
+
 # Run the files
 ./Integrated_Demo
+
 ./Performance_Profiler
+
 System Architecture (AvianOS)
+
 Our software architecture follows the TCA (Think-Connect-Act) Framework:
 
 Sense: Deterministic data acquisition (DMA-ready logic).
