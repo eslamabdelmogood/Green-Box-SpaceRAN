@@ -72,7 +72,7 @@ Think: Local inference using Quantized AI models (Int8) optimized for NPU accele
 
 Act: Reflex actions triggered via oneM2M standard payloads delivered by SpaceRAN HAPS.
 
-Project Honors
+# Project Honors
 Solo Finalist: 1st Global ESTIMED Hackathon (France).
 
 Award of Excellence: YuKaSong Hackathon 2025.
